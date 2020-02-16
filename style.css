@@ -1,0 +1,29 @@
+
+
+body {
+    margin: 0 auto;  
+    width: 1024px;    
+}
+
+h1 {
+    text-align: center;
+    font-family: "Arial", sans-serif;
+}
+
+
+img {
+    margin-left: 50px;
+    border-radius: 50%;
+}
+
+div {
+    width: 500px;
+    float: left;
+}
+
+li {
+    font-size: 20px;
+}
+
+
+
