@@ -1,4 +1,7 @@
-https://artiomkuzmenok.github.io/rsschool-cv/cv
+https://artiomkuzmenok.github.io/rsschool-cv/
+
+
+
 
 
 
