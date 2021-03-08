@@ -5,4 +5,4 @@
 * Code examples: 
 * Experience: manual testing of ACD/Labs program.
 * Education: BSU, Chemistry faculty.
-* English: Pre-intermediate
+* English: Intermediate
